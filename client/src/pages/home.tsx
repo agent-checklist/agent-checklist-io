@@ -43,20 +43,9 @@ export default function Home() {
 
           <div className="mt-10">
             <h2 className="font-mono text-xs uppercase tracking-widest mb-4 text-muted-foreground">Cite / Reference</h2>
-            <p className="text-sm font-light max-w-prose mb-4">
-              If you use or adapt this checklist in writing, talks, or documentation, a link back to this repository is appreciated.
+            <p className="text-sm font-light max-w-prose">
+              If you use or adapt this checklist, a <a href="https://github.com/agent-checklist/agent-checklist-io?tab=readme-ov-file#cite--reference" target="_blank" rel="noopener noreferrer" className="underline hover:text-foreground transition-colors">link back to the repo</a> is appreciated.
             </p>
-            <div className="bg-muted p-4 font-mono text-sm leading-relaxed">
-              <p>"Agent Checklist – A 12-factor–inspired set of principles for building agents"</p>
-              <a
-                href="https://github.com/agent-checklist/agent-checklist-io"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:underline"
-              >
-                https://github.com/agent-checklist/agent-checklist-io
-              </a>
-            </div>
           </div>
         </section>
 

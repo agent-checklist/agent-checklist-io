@@ -45,6 +45,10 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on proposing change
 If you use or adapt this checklist in writing, talks, or documentation,
 a link back to this repository is appreciated.
 
-Example:
-"Agent Checklist – A 12-factor–inspired set of principles for building agents"
-https://github.com/agent-checklist/agent-checklist-io
+```bibtex
+@misc{
+  title   = {Agent Checklist: Principles for Building Autonomous Agents},
+  year    = {2026},
+  url     = {https://github.com/agent-checklist/agent-checklist-io}
+}
+```
