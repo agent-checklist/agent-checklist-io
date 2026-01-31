@@ -39,3 +39,12 @@ Contributions are welcome.
 If you have operational experience building or running agent systems, feedback and proposed improvements are encouraged. Contributions should focus on clarity, enforceability, and real-world applicability.
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on proposing changes, reporting issues, and submitting pull requests.
+
+## Cite / Reference
+
+If you use or adapt this checklist in writing, talks, or documentation,
+a link back to this repository is appreciated.
+
+Example:
+"Agent Checklist – A 12-factor–inspired set of principles for building agents"
+https://github.com/agent-checklist/agent-checklist-io

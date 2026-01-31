@@ -40,6 +40,24 @@ export default function Home() {
               Read the Vision
             </a>
           </div>
+
+          <div className="mt-10">
+            <h2 className="font-mono text-xs uppercase tracking-widest mb-4 text-muted-foreground">Cite / Reference</h2>
+            <p className="text-sm font-light max-w-prose mb-4">
+              If you use or adapt this checklist in writing, talks, or documentation, a link back to this repository is appreciated.
+            </p>
+            <div className="bg-muted p-4 font-mono text-sm leading-relaxed">
+              <p>"Agent Checklist – A 12-factor–inspired set of principles for building agents"</p>
+              <a
+                href="https://github.com/agent-checklist/agent-checklist-io"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:underline"
+              >
+                https://github.com/agent-checklist/agent-checklist-io
+              </a>
+            </div>
+          </div>
         </section>
 
         {/* Checklist Grid View */}
@@ -103,7 +121,7 @@ export default function Home() {
           <div>
             <div className="font-bold text-2xl mb-2">AGENT CHECKLIST</div>
             <p className="text-sm text-muted-foreground max-w-md">
-              Constructed for the builders of tomorrow's autonomous systems.
+              Constructed for builders of autonomous agents.
             </p>
           </div>
           <div className="font-mono text-xs text-muted-foreground">
