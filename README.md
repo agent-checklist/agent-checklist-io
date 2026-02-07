@@ -40,6 +40,10 @@ If you have operational experience building or running agent systems, feedback a
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on proposing changes, reporting issues, and submitting pull requests.
 
+## Related Work
+
+[12-Factor Agents](https://github.com/humanlayer/12-factor-agents) covers related territory with a different emphasis. Agent Checklist was developed independently and focuses specifically on operability, governance, and long-term maintainability.
+
 ## Cite / Reference
 
 If you use or adapt this checklist in writing, talks, or documentation,
